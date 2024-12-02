@@ -3,7 +3,7 @@
 #### Mix-Method Research using tools including RStudio, Qualtrics, Miro
 
 ## Education
-- Ph.D., Experimental Psychology | University of California, San Diego (_2023_)
+- Ph.D., Psychology | University of California, San Diego (_2023_)
 - M.A., Psychology |  University of California, San Diego (_2019_)
 - B.Soc.Sci., Psychology | University of Macau (_2017_)
 
