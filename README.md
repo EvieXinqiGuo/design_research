@@ -42,5 +42,6 @@ Design implications from this applied research focus on creating neuroinclusive 
 
 ### Living + Learning Neighborhood
 [Project Overview](https://www.cadreresearch.org/live-learn-lab) 
+
 [Journal Publication](https://openurl.ebsco.com/EPDB%3Agcd%3A11%3A2009643/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A177332883&crl=c&link_origin=scholar.google.com)
 
