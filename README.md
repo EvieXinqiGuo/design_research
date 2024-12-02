@@ -30,15 +30,28 @@
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=tjyp9TUAAAAJ&view_op=list_works&sortby=pubdate)
 
 ## Design Research Projects
+### Office as a Living Lab
+[Web Story + Report](https://www.hksinc.com/our-news/articles/mindful-design-mindful-people-neuroinclusive-workplaces/)
+Collaborated with office leadership, employees, and third-party academic experts on a workplace research initiative designed to enhance employee well-being, engagement, and productivity through data-driven insights and innovative design solutions.
+
+Key Contributions:
+- Research Leadership: Led occupancy evaluations to assess behavioral changes and workplace affordances, including focus work, collaboration, cognitive breaks, and social connections.
+- Strategic Planning: Partnered with stakeholders to design feasible research plans addressing current and future office needs.
+- Data Analysis and Insights: Developed surveys, conducted data analyses, and created visualizations to effectively communicate findings.
+- Engagement and Advocacy: Facilitated behavioral mapping, focus groups, and discussions with leadership to align research with organizational goals.
+- Innovation and Knowledge Sharing: Collaborated with academic experts to integrate advancements in brain health into workplace design and published reports showcasing business, environmental, and human benefits.
+- Recognition and Impact: Contributed to award-winning workplace designs, emphasizing the role of offices in demonstrating company culture and community connection.
+
+Outcome: Supported the transformation of office spaces into dynamic environments that foster employee well-being, align with business goals, and exemplify thought leadership in workplace design.
+This succinctly highlights the project's impact and your key role for a professional resume.
+
+
 ### Brain-Healthy Workplace through a neurodiversity lense 
 [Web Story + Report](https://www.hksinc.com/our-news/articles/mindful-design-mindful-people-neuroinclusive-workplaces/)
 
 Workplace design and policy is slowly recognizing the unique sensory needs and cognitive patterns of neurodivergent individuals. In a recent applied research initiative, we integrated organizational psychology research on neurodivergent population with lived experience from neurodivergent employees from interviews and focus groups. We uncovered evidence-based strategies and actionable steps for creating more inclusive workplaces. We identified practical design and policy solutions, such as integrating structured cognitive breaks, quiet retreat spaces, and tailored collaboration zones.  
 
 Design implications from this applied research focus on creating neuroinclusive environments by balancing sensory stimulation, providing clear spatial definitions, and fostering flexible interactions. Specific affordances include quiet focus zones with low stimulation, medium-stimulation areas for brainstorming and collaboration, and high-stimulation spaces for informal social connections. These spaces, clearly defined and thoughtfully designed, empower employees to thrive while respecting diverse cognitive needs. 
-
-### Office as a Living Lab
-[Web Story + Report](https://www.hksinc.com/our-news/articles/mindful-design-mindful-people-neuroinclusive-workplaces/)
 
 ### Living + Learning Neighborhood
 [Project Overview](https://www.cadreresearch.org/live-learn-lab) 
