@@ -15,7 +15,15 @@
 - BrainHealthy Workplace through a neurodiversity lense
 
 **Design Research Intern @ HKS, Inc. (_June 2022 - September 2022_) **
--
+- Designed experimental research and survey items, generating research hypotheses aligned with project goals and data accessibility.
+- Conducted interviews and qualitative coding to understand target population needs and improve user experience.
+- Led statistical analysis and data visualization from multiple sources, including Okta logs and self-reports.
+
+**Human and Environmental Metric Research Intern @ Center for Advanced Design and Research Evaluation (_June 2021 - September 2021_)**
+- Balanced research method trade-offs to inform future design projects and resource prioritization.
+- Developed a framework for metric selection to evaluate project outcomes considering various constraints.
+- Contributed to HKS winning the COTE Top Ten award through insightful research.
+
 
 ## Projects
 ### Brain-Healthy Workplace through a neurodiversity lense
@@ -25,8 +33,6 @@ Workplace design and policy is slowly recognizing the unique sensory needs and c
 
 Design implications from this applied research focus on creating neuroinclusive environments by balancing sensory stimulation, providing clear spatial definitions, and fostering flexible interactions. Specific affordances include quiet focus zones with low stimulation, medium-stimulation areas for brainstorming and collaboration, and high-stimulation spaces for informal social connections. These spaces, clearly defined and thoughtfully designed, empower employees to thrive while respecting diverse cognitive needs. 
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
