@@ -31,7 +31,7 @@
 
 ## Design Research Projects
 ### Office as a Living Lab
-[Web Story + Report](https://www.hksinc.com/our-news/articles/mindful-design-mindful-people-neuroinclusive-workplaces/)
+[Web Story + Report](https://www.hksinc.com/how-we-think/reports/unlocking-brain-health-in-our-workplace-findings-from-hks-atlanta/)
 Collaborated with office leadership, employees, and third-party academic experts on a workplace research initiative designed to enhance employee well-being, engagement, and productivity through data-driven insights and innovative design solutions.
 
 Key Contributions:
