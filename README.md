@@ -42,7 +42,6 @@ Key Contributions:
 - Engagement and Advocacy: Facilitated behavioral mapping, focus groups, and discussions with leadership to align research with organizational goals.
 - Innovation and Knowledge Sharing: Collaborated with academic experts to integrate advancements in brain health into workplace design and published reports showcasing business, environmental, and human benefits.
 - Recognition and Impact: Contributed to award-winning workplace designs, emphasizing the role of offices in demonstrating company culture and community connection.
-
 - Outcome: Supported the transformation of office spaces into dynamic environments that foster employee well-being, align with business goals, and exemplify thought leadership in workplace design.
 
 
@@ -61,7 +60,9 @@ Key Contributions:
 - Outcome: Delivered a comprehensive report with actionable insights that informed neuroinclusive workplace design, enhancing employee well-being and productivity while demonstrating thought leadership in inclusive design innovation.
 
 ### Living + Learning Neighborhood
+
 - [Project Overview](https://www.cadreresearch.org/live-learn-lab)
+- [Journal Publication](https://openurl.ebsco.com/EPDB%3Agcd%3A11%3A2009643/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A177332883&crl=c&link_origin=scholar.google.com)
 - The landmark 10-acre, 1.6-million-square-foot neighborhood brings to life the university’s vision for a vibrant community that blends residential, academic, commercial, and cultural programming into a campus within a campus. This neighborhood addresses the university’s growth and need for affordable on-campus living, as well as creating a welcoming environment that advances student success by addressing physical, social, and mental health through design. The purpose of this cross-sectional study was to investigate if the new neighborhood influenced the mental well-being of first-year student residents and if satisfaction with various environments within the neighborhood was associated with student well-being scores.
 - Key Contributions:
 - Data Analysis and Visualization: Analyzed quantitative and qualitative data, creating visualizations to effectively communicate findings to clients and the research team.
@@ -69,5 +70,5 @@ Key Contributions:
 - Literature Review: Conducted a comprehensive review of relevant studies to contextualize findings and strengthen the research framework.
 - Stakeholder Engagement: Presented results and actionable insights to university stakeholders, highlighting the relationship between campus design and student well-being.
 - Outcome: Delivered a high-impact study that informed the university’s approach to designing environments that foster physical, social, and mental health, aligning with institutional goals to enhance student success.
-- [Journal Publication](https://openurl.ebsco.com/EPDB%3Agcd%3A11%3A2009643/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A177332883&crl=c&link_origin=scholar.google.com)
+
 
