@@ -27,10 +27,12 @@
 **Graduate Student Researcher @ University of California-San Diego (_September 2017 - September 2023_)**                                         
 - Led all aspects of a 5-year research project. Designed and analyzed data from 5 quantitative research studies. Tested 2000+ participants using diverse testing paradigms (experience sampling method and memory tasks).
 - Recruited and developed a team of 15 research assistants to perform research tasks. Tutored research assistants to code in RStudio.
+  
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=tjyp9TUAAAAJ&view_op=list_works&sortby=pubdate)
 
 ## Design Research Projects
 ### Office as a Living Lab
+
 [Web Story + Report](https://www.hksinc.com/how-we-think/reports/unlocking-brain-health-in-our-workplace-findings-from-hks-atlanta/)
 Collaborated with office leadership, employees, and third-party academic experts on a workplace research initiative designed to enhance employee well-being, engagement, and productivity through data-driven insights and innovative design solutions.
 
@@ -47,6 +49,7 @@ This succinctly highlights the project's impact and your key role for a professi
 
 
 ### Brain-Healthy Workplace through a neurodiversity lense 
+
 [Web Story + Report](https://www.hksinc.com/our-news/articles/mindful-design-mindful-people-neuroinclusive-workplaces/)
 
 Workplace design and policy is slowly recognizing the unique sensory needs and cognitive patterns of neurodivergent individuals. In a recent applied research initiative, we integrated organizational psychology research on neurodivergent population with lived experience from neurodivergent employees from interviews and focus groups. We uncovered evidence-based strategies and actionable steps for creating more inclusive workplaces. We identified practical design and policy solutions, such as integrating structured cognitive breaks, quiet retreat spaces, and tailored collaboration zones.  
@@ -55,6 +58,8 @@ Design implications from this applied research focus on creating neuroinclusive 
 
 ### Living + Learning Neighborhood
 [Project Overview](https://www.cadreresearch.org/live-learn-lab) 
+
+The landmark 10-acre, 1.6-million-square-foot neighborhood brings to life the university’s vision for a vibrant community that blends residential, academic, commercial, and cultural programming into a campus within a campus. This neighborhood addresses the university’s growth and need for affordable on-campus living, as well as creating a welcoming environment that advances student success by addressing physical, social, and mental health through design. The purpose of this cross-sectional study was to investigate if the new neighborhood influenced the mental well-being of first-year student residents and if satisfaction with various environments within the neighborhood was associated with student well-being scores.
 
 [Journal Publication](https://openurl.ebsco.com/EPDB%3Agcd%3A11%3A2009643/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A177332883&crl=c&link_origin=scholar.google.com)
 
