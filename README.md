@@ -10,9 +10,14 @@
 
 ## Work Experience
 **Design Researcher @ HKS, Inc. (_September 2023 - Present_)**
-- Living Lab Project
-- Real Estate Employee Report
-- BrainHealthy Workplace through a neurodiversity lense
+- Led workplace experience initiatives, including occupancy evaluations and research on behavioral changes in office environments.
+- Facilitated qualitative research (e.g., focus groups and interviews) to understand workplace affordances such as individual focus, collaboration, and social connection.
+- Developed actionable strategies and evidence-based design solutions that enhance employee well-being and engagement.
+- Built a scalable platform to standardize processes across 28 global offices, enhancing collaboration and sustainability efforts.
+- Provided research and resources to assist offices in pursuing and maintaining certifications like LEED and WELL.
+- Spearheaded survey development, quantitative and qualitative data analysis for workplace research projects.
+- Presented findings through data visualizations and insights reports to support decision-making and stakeholder engagement.
+- Partnered with academic experts to integrate advancements in cognitive health into workplace strategies.
 
 **Design Research Intern @ HKS, Inc. (_June 2022 - September 2022_)**
 - Designed experimental research and survey items, generating research hypotheses aligned with project goals and data accessibility.
