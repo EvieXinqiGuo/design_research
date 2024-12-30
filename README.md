@@ -56,7 +56,8 @@ Key Contributions:
 
 - Workplace design and policy is slowly recognizing the unique sensory needs and cognitive patterns of neurodivergent individuals. In a recent applied research initiative, we integrated organizational psychology research on neurodivergent population with lived experience from neurodivergent employees from interviews and focus groups.
 - Led a multidisciplinary applied research initiative to enhance workplace inclusivity by addressing the unique sensory and cognitive needs of neurodivergent individuals. Combined organizational psychology research with lived experiences gathered from employee interviews and focus groups to develop actionable design and policy recommendations.
- Key Contributions:
+
+Key Contributions:
 - Literature Review: Conducted a comprehensive review of organizational psychology research focused on neurodivergence to inform the project framework.
 - Facilitation and Insight Synthesis: Organized and facilitated focus groups with neurodivergent employees, synthesizing insights into practical recommendations.
 - Prototyping and Communication: Created graphic prototypes for deliverables and translated findings into accessible, visually engaging reports for broad communication.
@@ -69,7 +70,8 @@ Key Contributions:
 - [Project Overview](https://www.cadreresearch.org/live-learn-lab)
 - [Journal Publication](https://openurl.ebsco.com/EPDB%3Agcd%3A11%3A2009643/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A177332883&crl=c&link_origin=scholar.google.com)
 - The landmark 10-acre, 1.6-million-square-foot neighborhood brings to life the university’s vision for a vibrant community that blends residential, academic, commercial, and cultural programming into a campus within a campus. This neighborhood addresses the university’s growth and need for affordable on-campus living, as well as creating a welcoming environment that advances student success by addressing physical, social, and mental health through design. The purpose of this cross-sectional study was to investigate if the new neighborhood influenced the mental well-being of first-year student residents and if satisfaction with various environments within the neighborhood was associated with student well-being scores.
- Key Contributions:
+
+Key Contributions:
 - Data Analysis and Visualization: Analyzed quantitative and qualitative data, creating visualizations to effectively communicate findings to clients and the research team.
 - Research Leadership: Served as the first author for a peer-reviewed journal article detailing the study’s methodology and results.
 - Literature Review: Conducted a comprehensive review of relevant studies to contextualize findings and strengthen the research framework.
